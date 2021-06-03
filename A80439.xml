@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Copp's return to the wayes of truth: in a zealous and sincere protestation against severall errors; and in a sincere and zealous testimony to severall truths: or, Truth asserted against, and triumphing over error; and the wings of the fiery flying roll clipt, &amp;c. / By Abiezer Coppe, the (supposed) author of the Fiery flying roll. Herein is also something hinted concerning the author, in reference to the sinfulness and strictness of his life. With a little t'uch of what he hath been, and now is; sparkling here and there throughout these lines, and in the preface. Also a letter of Mr Durie's, with several proposals of great concernment, hereunto since annexed: and by the aforesaid author (A.C.) faithfully, &amp; fully answered, &amp;c.</title>
+            <author>Coppe, Abiezer, 1619-1672.</author>
+         </titleStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80439</idno><idno type="EEBO-CITATION">99865710</idno>
+  <idno type="VID">165896</idno>
+  <idno type="EEBO-PROQUEST">2240917614</idno>
+  
+            <idno type="STC">Wing C6090</idno>
+            <idno type="STC">Thomason E637_4</idno>
+            <idno type="STC">ESTC R206589</idno>
+            <idno type="PROQUEST">99865710</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865710e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165896)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E637[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Copp's return to the wayes of truth: in a zealous and sincere protestation against severall errors; and in a sincere and zealous testimony to severall truths: or, Truth asserted against, and triumphing over error; and the wings of the fiery flying roll clipt, &amp;c. / By Abiezer Coppe, the (supposed) author of the Fiery flying roll. Herein is also something hinted concerning the author, in reference to the sinfulness and strictness of his life. With a little t'uch of what he hath been, and now is; sparkling here and there throughout these lines, and in the preface. Also a letter of Mr Durie's, with several proposals of great concernment, hereunto since annexed: and by the aforesaid author (A.C.) faithfully, &amp; fully answered, &amp;c.</title>
+                  <author>Coppe, Abiezer, 1619-1672.</author>
+               </titleStmt>
+               <extent>[12], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Coppe, Abiezer, 1619-1672. --  Fiery flying roll.</term>
+               <term type="topical_term">Spiritual life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165896:1"/>
+            <p>Copp's Return to the wayes of TRUTH: IN A <hi>Zealous and sincere</hi> PROTESTATION Against severall Errors;</p>
+            <p>And in a <hi>Sincere and zealous</hi> TESTIMONY to severall Truths:</p>
+            <p>OR, <hi>Truth</hi> asserted against, and triumphing over <hi>Error;</hi> And the Wings of the Fiery flying Roll clipt, &amp;c.</p>
+            <p>BY ABIEZER COPPE, the [supposed] Author of the Fiery flying Roll.</p>
+            <p>Herein is also something hinted concerning the <hi>Author,</hi> in reference to the sinfulness and strictness of his Life.</p>
+            <p>With a little t'uch of what he hath been, and now is; Sparkling here and there throughout these Lines, And in the Preface.</p>
+            <p>Also a Letter of M<seg rend="sup">r</seg>
+               <hi>Durie</hi>'s, with several Proposals of great concernment, hereunto since annexed: And by the aforesaid Author <hi>(A. C.)</hi> faithfully, &amp; fully answered, &amp;c.</p>
+            <q>
+               <p>I have seen the wickedness of folly, and the foolishness of madness. And now I apply my heart to wisdome.</p>
+               <bibl>
+                  <hi>Eccles.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <hi>JOSUAH</hi> the High Priest [was] cloathed with filthy garments. And the Angel saith, take away the filthy garments from him, and set a mitre on his head—</p>
+               <bibl>
+                  <hi>Zech. 3.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Newcomb.</hi> 1651.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:165896:2"/>
+            <pb facs="tcp:165896:2"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>I. THE Preface or Epistle Dedicatory. Wherein is hinted what the Authour hath been, and now is.</item>
+               <item>II. The severall Errors prote<g ref="char:EOLhyphen"/>sted against:
+<list>
+                     <item>1. That there is no sin.</item>
+                     <item>2. That there is no God.</item>
+                     <item>3. That Man, or the meer creature, is very God.</item>
+                     <item>4. That God is in man, or in the creature, and no where else.</item>
+                     <item>5. That Cursing and Swearing is no sin.</item>
+                     <item>6. That Adultery and Fornication is no sin.</item>
+                     <item>7. That Community of wives is lawful.</item>
+                  </list> All which you may find in the Pages where the contrary Truths are asserted.</item>
+               <item>III. The several Truths asserted.
+<list>
+                     <item>1. That there is sin. <hi>pag.</hi> 1.</item>
+                     <item>2. That there is a God. <hi>pag.</hi> 6</item>
+                     <item>3. That Man, or the meer creature, is not very God. <hi>pag.</hi> 7</item>
+                     <item>4. That God is not confined in man, or is in the creature only, and no where else: But is omni-present; or every where. <hi>ib.</hi>
+                     </item>
+                     <item>5. That Swearing, and Cursing, is a sin. <hi>pag.</hi> 12</item>
+                     <item>6. That Adultery and Fornication is a sin. <hi>pag.</hi> 13</item>
+                     <item>7. That Community of wives is unlawful. Wherein is also something concerning Community in general, and con<g ref="char:EOLhyphen"/>cerning Liberty hinted at. <hi>ib.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>IV. The Conclusion. <hi>pag.</hi> 14</item>
+            </list>
+            <list>
+               <pb facs="tcp:165896:3"/>
+               <head>Some principal things in the second part (or Answer to M. <hi>Durie's</hi> Proposals, contained.</head>
+               <item>THE prime and principal motives inducing me to desire my enlargement: <hi>pag.</hi> 18</item>
+               <item>1. What Sin is. <hi>pag.</hi> 19</item>
+               <item>2. That sin is sin; whether men imagin it to be so, or no. <hi>ib.</hi>
+               </item>
+               <item>3, &amp; 4. That men do not please God as well when they sin, as when they sin not. <hi>pag.</hi> 22</item>
+               <item>5. Some things concerning the Law of God. <hi>pag.</hi> 23</item>
+               <item>6. Concerning God, and the souls of men, &amp;c. <hi>pag.</hi> 24</item>
+               <item>How we are partakers of the Divine Nature: wherein is something hinted concerning our spiritual filiation. And concerning our spiritual and mystical fraternity and union with Christ. <hi>ib.</hi>
+               </item>
+               <item>7. Something concerning the Resurrection of the body, and the last Judgement. <hi>pag.</hi> 25</item>
+            </list>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:165896:3"/>
+            <head>TO THE Supream Power, THE PARLIAMENT of the Common-wealth of <hi>ENGLAND;</hi> And to the Right Honourable the COUNCEL of STATE, appointed by their Authority.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am exceedingly sorry, that I am fallen under your honours displeasure.</p>
+            <p>And the rather because I am perswaded that you take no delight to lay heavy burthens upon any, nor to afflict any above measure.</p>
+            <p>And although I have FORMERLY wondered at my sore, te<g ref="char:EOLhyphen"/>dious, and long continued imprisonment, under which unsupporta<g ref="char:EOLhyphen"/>ble burthen I extreamly groan.</p>
+            <p>And the rather in respect of my poor weak disconsolate wife:
+<pb facs="tcp:165896:4"/> (whom I left in perfect health and strength) and my small innocent children.</p>
+            <p>Shee being brought (almost) to deaths dore, with continual and sore languishing for my tedious imprisonment.</p>
+            <p>And for the space of above half a year, and to this day is under the Physitians hand, to our great Grief and charge:</p>
+            <p>Besides that unspeakable and continual charge (which in seve<g ref="char:EOLhyphen"/>ral respects) I lie at, and for the space of a year and half have lien at in prison.</p>
+            <p>Which hath wasted and almost utterly undone mine and me, that I have scarce clothes to hang on my back.</p>
+            <p>And all that little that I have at home, ruined and spoiled, <hi>&amp;c.</hi>
+            </p>
+            <p>And my poor innocent children scattered here and there in seve<g ref="char:EOLhyphen"/>ral places. to our great care, Grief, and charge.</p>
+            <p>Although I say I have formerly wondered at the tediousnesse, and long continuation of my imprisonment, yet in all humility, I stoop to, and humbly acknowledg your Justice. And do not (now) much admire at my imprisonment.</p>
+            <p>First, in that I have been so slow, slack, and negligent in making any addresses to you.</p>
+            <p>Which indeed I resolved not to do: neither could I at all do it, til whatsoever came from me, came <hi>[Ex intimis medullis] from my very soul and heart:</hi> as these — that I now humbly present you withall do.</p>
+            <p>And secondly, because I am given to understand, that your Ho<g ref="char:EOLhyphen"/>nours have been extreamly laden, and your ears filled brim full of complaints against me<note n="*" place="margin">Herein I honor, &amp; humbly submit to the the Magistrate, an on<g ref="char:EOLhyphen"/>ly speak of those seve<g ref="char:EOLhyphen"/>ral sorts of informers against me, &amp;c.</note> which have arose from a kinde of zeal in some, from inveterare malice in others.</p>
+            <p>From ignorance, weakness, mistake, misappre<g ref="char:EOLhyphen"/>hensions, and misunderstandings in others.</p>
+            <p>Which hath been occasioned by some by past, and indeed, strange actions and carriages. And by som difficult, dark, hard, strange, harsh and almost unheard of words, and expressions of mine.</p>
+            <p>Of which I shall make bold to give, first your honours, and then the<note n="*" place="margin">This I have been advised to, and am also bound in conscience to do in several respects, and amongst the rest, that I might be a warning to others—and a<g ref="char:EOLhyphen"/>mongst other things — that he that thinks he stands, may take heed lest he fall, &amp;c.</note> world a brief account.</p>
+            <pb facs="tcp:165896:4"/>
+            <p>And if you please,</p>
+            <p>[Thus]</p>
+            <p>With this introduction,</p>
+            <p>And a touch of what, and where I have been afore this strange appearance. [Thus]</p>
+            <p>As the Lord of old took fleshly Israel by the hand, and led them from place to place: pitching and removing their Tents (from place to place) hundreds of times (for the space of <hi>40.</hi> years toge<g ref="char:EOLhyphen"/>ther) in the wilderness &amp;c.</p>
+            <p>So hath he took me by the hand, <hi>&amp;c.</hi>
+            </p>
+            <p>And hath transacted and done over the same things (in a spiri<g ref="char:EOLhyphen"/>tual sence) pitching and removing my tents from place to place.</p>
+            <p>Setting, and seating me in various forms.</p>
+            <p>In all which I have lived and acted zealously and conscientiously:</p>
+            <p>Never stirring a foot, till I clearly apprehended this voice (All a<g ref="char:EOLhyphen"/>long.)</p>
+            <p>
+               <note n="*" place="bottom">In this I do not in the least degree intend any thing concerning the sinfulness of my life, the author whereof was the divell. But concerning the various dispensations in way of that religion I have passed through, &amp;c.</note>
+               <hi>Arise, get thee hence, remove thy Tent,</hi> &amp;c. <hi>to such a place,</hi> &amp;c.</p>
+            <p>And so removing me from grosser, and impurer, to finer and purer forms, <hi>&amp;c.</hi>
+            </p>
+            <p>And at length he set me, and seated me in that —</p>
+            <p>Which is (now) most in request; though it hath formerly been muchly opposed: and they of that way persecuted.</p>
+            <p>And for which I my self have (some years since, to my joy and comfort) sustained a <hi>14</hi> weeks close imprisonment, even for that way, which did, and now doth, fling dirt in the face of all other waies — affirming all other — to be false waies, and wor<g ref="char:EOLhyphen"/>ships. And that onely to be the Gospel way, back'd on with many presidents and precepts, and plain texts of Scripture.</p>
+            <p>When I dwelt there — I walked most zealously, and most consci<g ref="char:EOLhyphen"/>entiously: and I then shined gloriously in the eyes of many hun<g ref="char:EOLhyphen"/>dreds, who lived with me in that Region.</p>
+            <p>But at length, I did for a season leave that way: and thought that I was shewn a more excellent way, living and triumphing in joy unspeakable, and full of glory, in the power, spirit, and life of that which I was groaping after in the figure, flesh, form, and out<g ref="char:EOLhyphen"/>side,
+<pb facs="tcp:165896:5"/> &amp;c. I was fed<note n="*" place="bottom">
+                  <hi>Viz.</hi> I was abundantly satisfied with the lo<g ref="char:EOLhyphen"/>ving kindness of the Lord, &amp;c. (which was clearly, purely, and freely manifested to me) and with the light of his countenance, &amp;c. living in peace, joy, and glorious consolation. And the Lord by his spirit (in his word) evealing and opening to me many glorious things which I neither saw nor understood afore, &amp;c.</note> with such dainties, that the tongue of men &amp; angels cannot express.</p>
+            <p>Ʋnfathomable, unspeakable mysteries and glories, being clear<g ref="char:EOLhyphen"/>ly revealed to me.</p>
+            <p>Past finding out by any human search, or its sharpest discern<g ref="char:EOLhyphen"/>ings, <hi>&amp;c.</hi>
+            </p>
+            <p>But at length the terrible, notable day of the Lord, stole upon me unawares, like a thiefe in the night.</p>
+            <p>Even that DAY burst in upon me, which burneth like an oven, and NO FLESH, (no not the FLESH of FOWLES which sore aloft) can stand before it, <hi>Malach. cap. 3.</hi> and <hi>chap. 4.</hi>
+            </p>
+            <p>So that I can very well take up <hi>Habbacuks</hi> expresse,</p>
+            <p>Hab. <hi>3. when I saw him</hi>—</p>
+            <p>My bowels trembled, my lipps quivered, rottenness entered into my bones, <hi>&amp;c.</hi>
+            </p>
+            <p>Why?</p>
+            <p>Before him came the Pestilence, and burning coales at his feet, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note n="*" place="bottom">Hab. 2.</note>And the cup of the Lords right hand, was put into mine hand, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">
+                  <p>which was the righte<g ref="char:EOLhyphen"/>ous judgement of the Lord, <hi>&amp;c.</hi> upon me.</p>
+                  <p>O the height! and depth! and length! and breadth! — how unsearchable are his ways! and his judge<g ref="char:EOLhyphen"/>ments past finding out, <hi>Rom</hi>
+                  </p>
+               </note>And it was filled brim full of intoxicating wine, and I drank it off, even the dreggs thereof.</p>
+            <p>Whereupon being mad drunk, I so strange<g ref="char:EOLhyphen"/>ly spake, and acted I knew not what.</p>
+            <p>To the amazement of some.</p>
+            <p>To the sore perplexity of others.</p>
+            <p>And to the great grief of others.</p>
+            <p>For I was (really, in very deed) besides my self.</p>
+            <p>And till that cup passed from me, I knew not what I spake or did.</p>
+            <p>And because I was as rich, and as great as <hi>Nebuchadnezzar</hi> was; I was therefore to be served, as he was.</p>
+            <p>Sure I am, (in asense) I was.</p>
+            <p>In a spiritual sense: I was as rich, (I say) and as great as <hi>Nebuchadnezzar,</hi> and full as proud as he.</p>
+            <p>Wherefore I'le (a little) dive into the mystery of that History <hi>Dan. 4.</hi>
+            </p>
+            <pb facs="tcp:165896:5"/>
+            <p>For me thinks it is shown to me that, that hits me—</p>
+            <p>In a mystical sense, I built a great Babel.</p>
+            <p>And (in the pride of my heart) I walking in the Palace of the Kingdome of <hi>Babylon,</hi> i. e. recreating, and priding my self, in the pleasures of (that which I now see to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Babel, <hi>i. e.</hi> con<g ref="char:EOLhyphen"/>fusion.</p>
+            <p>I said, is not this great Babel, which I have built, &amp;c. where<g ref="char:EOLhyphen"/>upon my KINGDOME was taken from me.</p>
+            <p>And I was driven from MEN, <hi>Dan. 4.32.</hi>
+            </p>
+            <p>— From MEN,</p>
+            <p>
+               <hi>i. e.</hi> That pure spark of Reason, (was for a season) taken from me. And I driven from it; from men, from RATIONA<g ref="char:EOLhyphen"/>LITY; from PƲRE humanity, &amp;c.</p>
+            <p>And thus was I driven from MEN.</p>
+            <p>And have been with the beasts of the field, <hi>Dan: 4.32, 33.</hi>
+            </p>
+            <p>I have been with BEASTS.</p>
+            <p>I have fed with BEASTS, &amp;c.</p>
+            <p>I have eaten GRASSE with OXEN.</p>
+            <p>Have been conversant with BEASTS.</p>
+            <p>And have been company for BEASTS, &amp;c.</p>
+            <p>And sure I am,<note n="(a)" place="bottom">Dan. 4.33.</note> my hairs wers grown like EAGLES fea<g ref="char:EOLhyphen"/>thers; and my nails like Birds CLAWES.</p>
+            <p>And (now I am come to my self) I know it, and divers will know, (as many have felt) what I mean. —</p>
+            <p>But these daies are ended, <hi>Dan. 4.34.</hi>
+            </p>
+            <p>And I have lifted up mine eyes to Heaven.</p>
+            <p>And mine ƲNDERSTANDING is returned unto me. And I blesse the most high, and praise, and honour him that liveth for ever; whose dominion, is an everlasting dominion. And his king<g ref="char:EOLhyphen"/>dome is from generation, to generation.</p>
+            <p>
+               <note n="(b)" place="margin">Dan. 4.35.</note>And all the inhabitants of the EARTH, are reputed as nothing: And he doth according to his <hi>35.</hi> will in the Army of Heaven, and among the inhabitants of earth.</p>
+            <p>And none can stay his hand: or say to him, what dost thou?</p>
+            <p>
+               <note n="(c)" place="bottom">Dan: 4.37:</note>And now I praise, and extoll, and honour the King of Hea<g ref="char:EOLhyphen"/>ven, ALL whose works are truth, and his waies judgement: and those that walk in pride, he is able to abase, &amp;c.</p>
+            <p>And now since, mine ƲNDERSTANDING is returned to mee.</p>
+            <pb facs="tcp:165896:6"/>
+            <p>I will dwell with my WIFE, as a man of knowledge:</p>
+            <p>I will love my little CHILDREN.</p>
+            <p>I will love all my BRETHREN, though of different statures, ages, and complexions, &amp;c.</p>
+            <p>My strong Brethren, and my weak also, I will not offend.</p>
+            <p>My sickly ones I will pity, and visit, and be serviceable to them.</p>
+            <p>And my babe-brethren, I will dandle on my knee; and do the best I can to quiet them, when they cry, and are crabbed, &amp;c.</p>
+            <p>And with my brethren that are at age, I will dine and sup; with them I will talk and conferre.</p>
+            <p>With them I will eat, drink, and be <hi>merry in the Lord.</hi>
+            </p>
+            <p>But I will hasten to a Conclusion,</p>
+            <p>Knowing that prolixity is not sutable to such personages, as your Honours are.</p>
+            <p>I will give but one hint: and I have done —</p>
+            <p>I have been (a long while) cloathed with filthy garments, and have lien in the channel.</p>
+            <p>Every one that hath past by me, have cast dirt upon me.</p>
+            <p>And I have lien still.</p>
+            <p>But now (in THESE —) I shake off the dirt, rags and all.</p>
+            <p>And I appear to your Honours, and to the world, in such an ha<g ref="char:EOLhyphen"/>bit, as my penury will afford me.</p>
+            <p>I have patiently, and silently heard my self accounted, the fa<g ref="char:EOLhyphen"/>ther of mischief: and the grand authour of errors.</p>
+            <p>In many things I have been injuriously dealt withal: and se<g ref="char:EOLhyphen"/>veral reports have gone of me, which have not been (in the least degree) true.</p>
+            <p>However, I have given offence to many, and grieved others:</p>
+            <p>For which, my heart akes, my soul is grieved, and my bowels are kindled with compassionate tendernesse, and tender compassion to<g ref="char:EOLhyphen"/>wards them.</p>
+            <p>There are many<note n="*" place="bottom">Errors broached.</note> spurious brats, lately born: and because their parents have looked upon me as a rich Merchant, they have took on them the boldnesse to lay them at my door, &amp;c.</p>
+            <p>Some of them (indeed) look somewhat like my children.</p>
+            <p>But however, to put all out of doubt,</p>
+            <p>Whether they are mine, or no: I will not be so full of foolish pity, as to spare them.</p>
+            <p>I will turn them out of doors, and starve them to death.</p>
+            <pb facs="tcp:165896:6"/>
+            <p>And as for those which I know are not mine own: I will be so holily cruel, as to dispatch them.</p>
+            <q>
+               <l>
+                  <note n="*" place="bottom">Ps. 37.10. in meet.</note>I'll take those children young,</l>
+               <l>And dash their bones, against hard stones,</l>
+               <l>That lie the streets among.</l>
+            </q>
+            <p>And as for my self,</p>
+            <p>Although I have been strangely acted,</p>
+            <p>
+               <note place="margin">☞</note>And by the Devil deluded.</p>
+            <p>Yet if I might gain a Kingdom, I could neither act, nor speak as I have done.</p>
+            <p>But I am resolved (by the grace of God) to give no offence (ei<g ref="char:EOLhyphen"/>ther in life, or doctrine) to any.</p>
+            <p>But both by life and doctrine, will decrie, whatsoever hath occasioned out-cries against me. And hath offended God, your Honours, and grieved others. And I pray, hope, and believe, (that through the grace of God) my future deportment, to all sorts, shall make amends for what is by past.</p>
+            <p>These, with my self, I lay prostrate at your Honours feet: For I am,</p>
+            <closer>
+               <salute>Right Honourable,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your humble, and faithful servant, and<lb/> very, very poor prisoner,<lb/> And,<lb/> Loving and peacefull to all men.<lb/> ABIEZER COPPE.</hi>
+               </signed>
+               <dateline>
+                  <hi>From the House of Bondage,<lb/> where I live in the favour of<lb/> the Prince of Peace.<lb/> —NEWGATE.</hi>
+                  <lb/>
+                  <date>May <hi>30. The day of my Nativity, 1619 And the day of my new<g ref="char:EOLhyphen"/>birth, 1651</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:165896:7"/>
+            <pb n="1" facs="tcp:165896:7"/>
+            <head>Truth asserted against, AND <hi>TRIƲMPHING</hi> OVER ERROR.</head>
+            <p>Now I will lay the Axe to the root of the Tree, even to this grand Error, <hi>(viz.)</hi> This</p>
+            <div n="1" type="statement_of_error">
+               <head>
+                  <hi>I. ERROR.</hi> That there is no sinne.</head>
+               <p>
+                  <seg rend="decorInit">C</seg>Oncerning this Error,
+<list>
+                     <item>1. I dis-own, detest, and protest against it.</item>
+                     <item>2. I assert and prove the contrary, <hi>(viz.)</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div n="1" type="counter_assertion">
+               <head>I. ASSERTION.</head>
+               <p>I Assert, and prove,</p>
+               <p>
+                  <hi>That there is sinne:</hi>
+               </p>
+               <p>For, there is not a just man upon Earth, that doth good, and sinneth not, as it is written, <hi>Ecclesiast.</hi> 7.20.</p>
+               <pb n="2" facs="tcp:165896:8"/>
+               <p>Every man on earth, living here below, sinneth: is [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>i.e.</hi>] A sinner, a sinner all over: full, brim-full of sin.</p>
+               <p>And of sinners, I am the chief.</p>
+               <p>And this (with unspeakable grief, sorrow of soul, and anguish of Spirit) I began to see in my tender years, when my heart mel<g ref="char:EOLhyphen"/>ted like wax before the Lord.</p>
+               <p>And because I have been set as a Beacon on a hill, it will not be amiss to speak something concerning my self, in reference to sin. [And the rather because by wofull experience, I know as much as any man in the world, that there is sin, and what is sin.</p>
+               <p>And how, and wherein I have sinned; and what it hath cost me.</p>
+               <p>All which will illustrate this assertion—which I will mostly dwell upon The contrary <hi>Error</hi> being the ground and Foundation of all the <hi>Errors</hi> which many suppose I am (or rather have been)<note n="*" place="margin">If I have drunk any deadly poy<g ref="char:EOLhyphen"/>son it can do me no harm. <hi>Mar.</hi> 16.18. THE Physiti<g ref="char:EOLhyphen"/>on hath given me a pure purge, and a powerful anti<g ref="char:EOLhyphen"/>tidote, &amp;c.</note> poysoned withall.]</p>
+               <p>But to leave this <hi>Parenthesis,</hi> and to return to what I was saying.</p>
+               <p>When I was about 13 years old, sin began to lie at the dore.</p>
+               <p>The sight whereof was the Resurrection of se<g ref="char:EOLhyphen"/>veral passions in me: as hatred, fear, grief, <hi>&amp;c.</hi> And I began to flie from it, as from the face of a Serpent: arming my self against it, as against the deadliest ene<g ref="char:EOLhyphen"/>my: setting a strict guard: making the watch as sure as I could.</p>
+               <p>Watching my thoughts, my actions; and watching my words, that I might not<note n="*" place="bottom">
+                     <hi>Psal.</hi> 39.</note>
+                  <hi>offend with my tongue.</hi>
+               </p>
+               <p>Whereupon I writ upon Scrouls of Parchment, this inscription, <hi>[Yea yea, nay, nay.]</hi>
+               </p>
+               <p>And sewed them about my rists.</p>
+               <p>So far was I, even from <hi>[Faith, and Troth Oaths.]</hi> From pet<g ref="char:EOLhyphen"/>ty Oaths, or the least appearance of evill and sinfull speaking: that if I heard any one say, [<hi>O Lord, O Christ, O God,</hi> &amp;c.] upon any triviall occasion, my flesh trembled thereat, it was even as a dag<g ref="char:EOLhyphen"/>ger to my heart.</p>
+               <p>And God is my Record, that in 27 years space, no such word proceeded out of my mouth.</p>
+               <p>I looking upon [<hi>O Christ, O God,</hi> &amp;c.] as a great breach of that pure Commandment, which saith,<note n="*" place="bottom">Exod. 20.</note>
+                  <hi>Thou stalt not take the name of the Lord thy God in vain,</hi> &amp;c.</p>
+               <pb n="3" facs="tcp:165896:8"/>
+               <p>And from the age of 13. and so forward, I began to take and keep a dayly Register of my sins, and set them down in a Book.</p>
+               <p>And in my evening and midnight prayer, (prayer by heart so called) I did constantly in that part of prayer called <hi>Confession,</hi> (with grief of soul, sighs and groans, and frequently with tears) confess over my sins.</p>
+               <p>When none eye saw me, but his that searcheth the heart, and tryeth the reins: and when no ear heard me but his that made the ear.</p>
+               <p>I also tyed my self for several years together, to read 9.6. and at least 3 chapters in the Bible every day: and much of the Scri<g ref="char:EOLhyphen"/>pture did I learn by heart.</p>
+               <p>I was in private, and most secret Fastings often.</p>
+               <p>Tears were my drink: dust and ashes my meat.</p>
+               <p>And sack-cloth my clothing.</p>
+               <p>Zeal, Devotion, and exceeding strictness of life and conversa<g ref="char:EOLhyphen"/>tion, my life.</p>
+               <p>Neither is there, or was there any (even the highest and strict<g ref="char:EOLhyphen"/>est) way of Religion, but I have zealously walked in it, as many hundreds can bear me witness.</p>
+               <p>But all this while I could not, neither to this day, can I see any thing in my self but sin.</p>
+               <p>And all my prayers tears, sighs, groans, watchings, fastings, humiliations, <hi>&amp;c.</hi> besmeared over wath filth and uncleanness.</p>
+               <p>And in the presence of the heart-searcher, and rein-tryer, I speak it: I have wept over my tears, because I could weep not more: not better, <hi>&amp;c.</hi>
+               </p>
+               <p>And have been greatly humbled for my humiliation, because it was not greater, not better.</p>
+               <p>And asham'd of all, because sin hath clinged so close to them all.</p>
+               <p>Besides those innumerable sinfull thoughts, words and deeds, which have invironed me about on every side.</p>
+               <p>This that I have now hinted in reference to the strictness of my life, is not blowing a Trumpet in mine own praise—</p>
+               <p>I have felt it like pangs of death: I speak it with sorrow and shame: and all to this purpose,</p>
+               <p>That I might proclaim, <hi>There is sin, sin with a w<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ss.</hi>
+               </p>
+               <p>And now do <hi>I</hi> lift up<note n="*" place="bottom">Isa. <hi>58.1.</hi> to the <gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>rse.</note> my voice like a Trumpet, herein <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cry aloud, and spare not my self.</p>
+               <pb n="4" facs="tcp:165896:9"/>
+               <p>Nor—to shew the house of <hi>Jacob</hi> their sins, &amp;c.</p>
+               <p>And if the righteous scarcely be saved; where shall the sinner and ungodly appear?</p>
+               <p>If our prayers, tears, sighs, groans, humiliations, [take all i'th' lump—] righteousnesses can scarcely be saved,—<hi>justified</hi> in themselves, &amp;c. where shall our stark staring wickednesses, &amp;c. appear?</p>
+               <p>
+                  <hi>O Sin! Sin! Sin!</hi>
+               </p>
+               <p>
+                  <hi>There is Sin.</hi>
+               </p>
+               <p>Murther, Theft, Adultery, Drunkenness, Swearing, Cur<g ref="char:EOLhyphen"/>sing, Uncleanness, Uncleanness, Covetousness, Pride, Cruelty, Oppression, Hypocrisie, Hatred, Envy, Malice, Evil surmising, is sin.</p>
+               <p>Nothing but villany, sin, and transgression in me, the chief of sinners.</p>
+               <p>In man—</p>
+               <p>In every man.</p>
+               <p>There is none righteous; no, not one.</p>
+               <p>None that doth good; no, not one.</p>
+               <p>All are Sinners.</p>
+               <p>Thieves, little thieves, and great thieves, drunkards, adulte<g ref="char:EOLhyphen"/>rers, and adulteresses. Murtherers, little murtherers, and great murtherers. All are Sinners. Sinners All.</p>
+               <p>[<hi>Rom.</hi> 3. from the 9. to the 21. <hi>verse.</hi>]</p>
+               <p>What then? Are we better then they?</p>
+               <p>No, in no wise.</p>
+               <p>— <hi>All are under sin.</hi>
+               </p>
+               <p>As it written, there is none righteous; no, not one; — there is none that doth good; no, not one.</p>
+               <p>Their throat is an open sepulchre; with their tongues, they have used deceit. The poison of alps is under their lips.</p>
+               <p>Their mouth is full of cursing, and bitterness.</p>
+               <p>Their feet are swift to shed bloud.</p>
+               <p>Destruction; and misery, are in their ways.</p>
+               <p>THE WAY of PEACE, have they not known.</p>
+               <p>Now we know, that what things soever the Law saith, it saith to them that are under the Law; that every mouth may be stop<g ref="char:EOLhyphen"/>ped; and all the world may become guilty before God.</p>
+               <p>Therefore by the DEEDS of the Law, shall no flesh be justi<g ref="char:EOLhyphen"/>fied in his sight, &amp;c.</p>
+               <pb n="5" facs="tcp:165896:9"/>
+               <p>But NOW the righteousness of God WITHOUT the LAW is manifest—But</p>
+               <p>[Verse, 23.]—<hi>ALL</hi> have sinned, <hi>&amp;c.</hi>
+               </p>
+               <p>Verse 21. All the world <hi>[is]</hi> become guilty before God.</p>
+               <p>Guilty, guilty, my Lord!</p>
+               <p>All are full of sin.</p>
+               <p>I,—and the Nation.—</p>
+               <p>Ah! sinfull I.</p>
+               <p>
+                  <note place="margin">Isa. 1.4.5.6.7.10.11.12 13.14.15.21.23.24.26.27.</note>Ah! sinful nation. A people laden with iniquity. from the sole of the foot even to the HEAD: there is no soundness in it: but wounds, and bruises, and putrifiing sores.</p>
+               <p>To what purpose is the multitude of your sacrifices to me saith the Lord? &amp;c.</p>
+               <p>When you come to appear before me, who hath required these things at your hands, &amp;c?</p>
+               <p>The new Moons and Sabbaths, the Calling of ASSEMBLIES, I cannot away with: it is INIQUITY, even the solemn meet<g ref="char:EOLhyphen"/>ing: And when you spread forth your hands, I will hide mine eyes from you: yea, when you make many prayers, I will not hear.</p>
+               <p>Your hands are full of bloud.</p>
+               <p>How is the faithfull City become an harlot? It was full of judgement, righteousness lodged in it, but now murtherers.</p>
+               <p>The Princes are rebellious, and companions of Thieves:</p>
+               <p>EVERY ONE loveth gifts, and followeth after rewards— [But] I will restore thy Judges as at the first, &amp;c.</p>
+               <p>[And] Zion shall be redeemed with JUDGEMENT, &amp;c.</p>
+               <p>And, now<note n="†" place="bottom">
+                     <hi>Ezra</hi> 9. <hi>Dan:</hi> 9:</note> O my God, I am ashamed, and blush to lift up my face, to thee my God. For we have sinned.</p>
+               <p>We, our Kings, our Rulers. Our Priests, our Judges.</p>
+               <p>All have sinned, and gone astray.</p>
+               <p>Do sin, are sinners.</p>
+               <p>Wo be to us, we are sinners.</p>
+               <p>Wo be to the inhabitants of the Earth—</p>
+               <p>The EARTH is full of sin.</p>
+               <p>There is sin, sin with a witness. <hi>Ita testor</hi> ABIEZER COPPE.</p>
+               <p>Let this suffice for the first assertion,</p>
+               <p>
+                  <hi>That there is sin.</hi>
+               </p>
+               <pb n="6" facs="tcp:165896:10"/>
+               <p>And let this, as also divers other things in the following <hi>Asserti<g ref="char:EOLhyphen"/>ons,</hi> serve as sharp shears to clip the wings of the <hi>Fiery flying Role:</hi> which insinuats several blasphemous opinions, and which insinuats that nothing is otherwise a sin, then as men imagine it to them<g ref="char:EOLhyphen"/>selves to be so: Which— I utterly disown, and protest against, (as may be more fully seen in my answer to Mr. <hi>Duries</hi> Proposal to me concerning sin, <hi>&amp;c.</hi>)</p>
+               <p>Wherefore I say, let the wings of the <hi>Fiery flying Role,</hi> be clipt (by this large Tract concerning sin, and by that which fol<g ref="char:EOLhyphen"/>lows; with my answer to Mr: <hi>Dury</hi>) and let it be thrown head<g ref="char:EOLhyphen"/>long into its own place, the Lake of fire and brimston, and the great Abyss from whence it came.</p>
+               <p>And let me mourn that J, and the whole world lie in darkness, and are involved in <hi>Sin and wickedness.</hi>
+               </p>
+            </div>
+            <div n="2" type="statement_of_error">
+               <head>
+                  <hi>II. ERROR.</hi> That there is no God.</head>
+               <p>COncerning this <hi>Error,</hi>
+               </p>
+               <p>First, I utterly disown, detest, and protest against it, as a hor<g ref="char:EOLhyphen"/>rid blasphemous opinion.</p>
+               <p>And although I have been slanderously reported of in this par<g ref="char:EOLhyphen"/>ticular (as in divers others) yet I challenge the whole world to prove or affirm to my face, that ever I affirmed any such thing.</p>
+               <p>Yea, I can with joy, and boldness (in the presence of the <hi>All-seeing God</hi>) affirm, that I never said it in my heart, much less with my mouth,</p>
+               <p>
+                  <hi>That there is no God.</hi>
+               </p>
+            </div>
+            <div n="2" type="counter_assertion">
+               <head>
+                  <hi>II. ASSERTION.</hi> [But on the contrary I affirm and know] That there is a God.</head>
+               <p>ANd<note n="*" place="bottom">
+                     <hi>Jo.</hi> 4.</note> God is a <hi>Spirit,</hi> having his being in himself; yea, he is that <hi>[Ens entium]</hi> that <hi>being of beings,</hi> as that Sacred and unfathomable word [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>Jehovah,</hi> [from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] imports.</p>
+               <p>He is the <hi>[Summum bonum,] the chiefest good.</hi>
+               </p>
+               <p>The fountain of life and light:</p>
+               <pb n="7" facs="tcp:165896:10"/>
+               <p>He is the<note n="*" place="margin">Concerning this, see more at large in that peice of <hi>Hierogliphical</hi> Di<g ref="char:EOLhyphen"/>vinity, in the preface to <hi>Rich. Coppins</hi> book.</note>
+                  <hi>Alpha,</hi> and <hi>Omega,</hi> the first and the last, the begining and the ending, <hi>&amp;c.</hi>
+               </p>
+               <p>He is said to be the God of love &amp; peace,</p>
+               <p>[<hi>Phil.</hi> 4. <hi>Rom.</hi> 15.]</p>
+               <p>And a man of War. [<hi>Exod.</hi> 15.]</p>
+               <p>The Lyon, and Lamb. [<hi>Revel.</hi> 5.]</p>
+               <p>The Branch, and Root. [<hi>Isa.</hi> 11. with <hi>Rev.</hi> 22.]</p>
+               <p>A jealous God. [<hi>Exod.</hi> 20.]</p>
+               <p>And the God of mercies. [1 <hi>Cor.</hi>]</p>
+               <p>And all these (seemingly) cross denominations, do finely, and secretly declare him to be ALL, in ALL, according to the Scriptures, 1 <hi>Cor.</hi> 15.28. <hi>Colos.</hi> 3.11.</p>
+               <p>The heavens and firmament; day and night, <hi>&amp;c.</hi> all his works praise him. And all things declare his glory.</p>
+               <p>Yet the tongue of men and angels is altogether unable to speak him forth to the full.</p>
+               <p>And as for my self,</p>
+               <p>I must not, I cannot, J dare not say any more, but silently a<g ref="char:EOLhyphen"/>dore him, With</p>
+               <p>
+                  <note n="*" place="bottom">
+                     <hi>Rom.</hi> 11.</note>
+                  <hi>O the height, the depth, the length, the breadth, how unsearcha<g ref="char:EOLhyphen"/>ble!</hi> &amp;c.</p>
+               <p>Of him, and from him, and to him, and through him are ALL THINGS. And he is <hi>ALL</hi> in <hi>ALL,</hi> God blessed for ever<g ref="char:EOLhyphen"/>more. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 11.36. chap. 9. vers. 5. 1 <hi>Cor.</hi> 8.6. chap. 11: vers. 12. 2 <hi>Cor.</hi> 5.18. <hi>Colos.</hi> 1.16.17.20. <hi>Ephes.</hi> 1.23. and chap. 4. vers. 6.</p>
+            </div>
+            <div n="3" type="statement_of_error">
+               <head>
+                  <hi>III. ERROR.</hi> That Man, or the meer Creature, is very God.</head>
+               <p>COncerning this Error.</p>
+               <p>First I disown, detest, and protest against it.</p>
+               <p>Secondly, I affirm the contrary, <hi>viz.</hi>
+               </p>
+            </div>
+            <div n="3" type="counter_assertion">
+               <head>
+                  <hi>III. ASSERTION.</hi> That not any man, or the meer creature is very God.</head>
+               <p>For, First, the creature is mortall, 1 <hi>Cor.</hi> 15.</p>
+               <p>But God is immortall, 1 <hi>Tim.</hi> 1.17. 1 <hi>Tim.</hi> 6.16.</p>
+               <p>Secondly, the Creature is visible.</p>
+               <pb n="8" facs="tcp:165896:11"/>
+               <p>But God is invisible, 1 <hi>Tim.</hi> 1.17. <hi>Iohn</hi> 1. No man hath seen God, at any time, &amp;c.</p>
+               <p>Thirdly, the creature is limited, and is weakness.</p>
+               <p>But God is unlimited Almightiness.</p>
+               <p>He is where he pleaseth, doth what he pleaseth, <hi>Eccles.</hi> 8.3.</p>
+               <p>He is unlimited.</p>
+               <p>He sets up a brazen Serpent, when he pleaseth, <hi>Numb.</hi> 21.8, 9.</p>
+               <p>And grinds it to powder, when he pleaseth, 2 <hi>Kings</hi> 18.4.</p>
+               <p>He institutes Circumcision when he pleaseth, and commands it, upon pain of Excommunication and death, &amp;c.</p>
+               <p>
+                  <hi>Gen.</hi> 17.10, 11, to the 28 verse, chap. 21.4. chap. 34.15.17.22.24. <hi>Exod.</hi> 12.44.48. <hi>Lev.</hi> 12.3. <hi>Josh.</hi> 5.3.5.7. <hi>Acts</hi> 7.8.</p>
+               <p>All these Scriptures, I quote on purpose to shew how strictly God enjoyned Circumcision.</p>
+               <p>And what penalties were laid on them that were not obedient herein, &amp;c.</p>
+               <p>But unlimited Almightiness dasheth that to pieces, which he made. Nuls his own Acts, Statutes, Laws, and strict Ordinances.</p>
+               <p>Nothings this great thing, Circumcision.</p>
+               <p>As it is written.</p>
+               <p>Verily Circumcision is nothing, &amp;c. 1 <hi>Cor.</hi> 7.19.</p>
+               <p>And they which preached, That, up, which God (upon pain of death) once set up. Were accounted (by the holy Apostle, who was inspired with the holy Spirit) The worst of gain-sayers, unruly, vain talkers, and deceivers, <hi>Tit.</hi> 1.9, 10.</p>
+               <p>Yea, the preaching, and practising of that, for which there were so many, so great precepts, and presidents, so large examples, and strict commands, was (at length) a horrid indignity to God, Christ, and the Gospel, &amp;c. <hi>Gal.</hi> 5.2, 3: <hi>chap.</hi> 6.12, 13.</p>
+               <p>And sure there's something i'th' winde—</p>
+               <p>Certainly the meer creature is not very God.</p>
+               <p>For the meer creature is limited, and weakness.</p>
+               <p>But God is unlimited Almightiness.</p>
+               <p>He doth what he pleaseth.</p>
+               <p>He saith, thou shalt not kill, <hi>Exod.</hi> 20:</p>
+               <p>And yet he bids <hi>Abraham</hi> stay his son, &amp;c.</p>
+               <p>He saith, Thou shalt not commit Adultery, <hi>Exod.</hi> 20.</p>
+               <p>And fly Fornication, <hi>Acts</hi> 15.20.29. <hi>chap:</hi> 21.25. 1 <hi>Cor.</hi> 6.18. <hi>Ephes.</hi> 5.3. <hi>Col.</hi> 3.5. 1 <hi>Thess.</hi> 4.3.</p>
+               <pb n="9" facs="tcp:165896:11"/>
+               <p>And yet he saith to <hi>Hosea,</hi> Take a whore—a wife of whore<g ref="char:EOLhyphen"/>domes, and get children of fornication, <hi>Hos.</hi> 1.2. <hi>chap.</hi> 3.1, 2, 3. Love a woman, beloved of her friend: yet an Adulteresse, &amp;c.</p>
+               <p>Certainly the meer creature, is not very God: for the creature is limited weaknesse.</p>
+               <p>But God is unlimited Almightiness.</p>
+               <p>And doth whatsoever he pleaseth.</p>
+               <p>And who hath enjoyned him his way? Or who can say, thou hast wrought iniquity? Or who can say to him, what dost thou? <hi>Job</hi> 36.23. <hi>chap.</hi> 9.12.</p>
+               <p>Fourthly, the meer creature is finite.</p>
+               <p>But God is infinite. <hi>Ergo,</hi>
+               </p>
+               <p>The meer creature is not very God.</p>
+               <p>I might in this argument run <hi>[ad infinitum.]</hi>
+               </p>
+               <p>But let this suffice; for God is my Record, this was never my tenent, though some slanderously, others maliciously, and some through ignorance, weaknesse, and mistake, have reported it of mee.</p>
+               <p>Neither do I know any one upon the face of the Earth, that affirmeth,</p>
+               <p>
+                  <hi>That the meer creature, is very God.</hi>
+               </p>
+            </div>
+            <div n="4" type="statement_of_error">
+               <head>
+                  <hi>IV. ERROR.</hi> That God is in man, or in the creature onely, and no where else.</head>
+               <p>COncerning this error,</p>
+               <p n="1">1. I utterly dis-own, detest, and protest against it.</p>
+               <p n="2">2. I affirm that my holding forth the contrary, (even that sound, and Orthodoxal truth of Omni-presency) to the life: hath been one of the main stumbling blocks, whereat many have stumbled, have fallen, and have been broken.</p>
+               <p>And for which, many (who have talkt, and only talkt of Om<g ref="char:EOLhyphen"/>ni-presency,) have been offended at me. But—</p>
+               <p n="3">3. I assert the very truth, which is contrary to this error, <hi>(viz.)</hi>
+               </p>
+            </div>
+            <div n="4" type="counter_assertion">
+               <head>
+                  <hi>IV. ASSERTION.</hi> That God is not confined in man, or in the creature only, but is omni-present, or every where:</head>
+               <p>THat eternal, invisible, only wise God. <hi>Jehovah [ens entium]</hi> the beeing of beeings, is not confined in man only, &amp;c.</p>
+               <pb n="10" facs="tcp:165896:12"/>
+               <p>For I know that he is <hi>[Hic, &amp; ubique]</hi> here, and there, and every where.</p>
+               <p>He is in the heights, in the depths, above, below.</p>
+               <p>He is the high and lofty, that inhabits eternity.</p>
+               <p>Yet dwelleth in the lowest heart, <hi>Isa.</hi> 57.15.</p>
+               <p>
+                  <hi>Ps.</hi> 39.7. to the 13. Whither shall I go from thy presence? If I ascend up into Heaven, thou art there: If I make my bed in Hell, behold thou art there, &amp;c.</p>
+               <p>Yea, the darknesse hideth not from thee: but the NIGHT shineth as the DAY.</p>
+               <p>The DARKNESSE, and the LIGHT, are both alike to thee, &amp;c.</p>
+               <p>He is in Heaven, Earth, Sea, Hell.</p>
+               <p>The God of the Hils, and of the Valleys also.</p>
+               <p>He is near, and afar off, &amp;c.</p>
+               <p>He filleth all things, all places.</p>
+               <p>Can you have any more then all?</p>
+               <p>He filleth ALL in ALL, <hi>Ephes.</hi> 2.23:</p>
+               <p>And I am filled full, with joyous amazement; and amazing joy: that I can write no more of this subject. But shout for joy, that I know that the omnipotent <hi>Jehovah,</hi> is omni-present.</p>
+               <p>
+                  <hi>[Hallelujah, Amen.]</hi>
+               </p>
+               <p>For God is not confined in man, or in the creature only. For he is in himself.</p>
+               <p>And in ALL THINGS.</p>
+               <p>For (once more) He is ALL in ALL, <hi>Colos.</hi> 3.11.</p>
+            </div>
+            <div n="5" type="statement_of_error">
+               <head>
+                  <hi>V. ERROR.</hi> That Cursing and Swearing, is no sin.</head>
+               <p>COncerning this thing, I shall</p>
+               <p>First declare, that for the space of 27 years, I was as free from this sin (yea, I speak as a fool) more free from it, then any that I knew, as I have already hinted in the first Assertion; whe<g ref="char:EOLhyphen"/>ther I refer you.</p>
+               <p>But (at length) God in his infinite wisdome, (amongst many other things, for this very end, to shew to me, that at my<note n="*" place="bottom">
+                     <hi>Psal.</hi> 39.</note> very best estate, I was altogether vanity.</p>
+               <p>And to take me off from mine own base bottom.</p>
+               <p>And for the destruction of the pride of my flesh.</p>
+               <pb n="11" facs="tcp:165896:12"/>
+               <p>That I might no longer-glory in my self, but glory in the Lord, &amp;c.) was pleased to turn me loose.</p>
+               <p>And being<note n="*" place="bottom">
+                     <hi>Job</hi> 11.12.</note> born, a wild ass colt; and the reins being laid in my neck: I proved so indeed.</p>
+               <p>For<note n="‖" place="bottom">
+                     <hi>Prov.</hi> 5.14.</note> I was almost in all Evil.</p>
+               <p>And was infected with this plague of Swearing, &amp;c.</p>
+               <p>But after a while, the hand of God found me out:</p>
+               <p>And sent the pangs of death to take hold on me.</p>
+               <p>
+                  <note n="*" place="bottom">Job</note> The terrours of the Almighty were set in array against me: especially for this horrid sin of Swearing: which lay upon me as a burden too heavy for me to bear. The jawes of Hell continu<g ref="char:EOLhyphen"/>ally gaping for me.</p>
+               <p>And I concluding my self to be (as often I cryed out, I was) in a far worse case then <hi>Cain,</hi> or <hi>Judas.</hi>
+               </p>
+               <p>And for a long season,<note n="(a)" place="bottom">
+                     <hi>E<g ref="char:EOLhyphen"/>zek.</hi> 16.</note> I lay weltring in my bloud. My<note n="(b)" place="bottom">Ps.</note> wounds stunk, and were corrupt.</p>
+               <p>But at length, everlasting loving kindness cast his skirts of love over me, (even<note n="(c)" place="bottom">
+                     <hi>Ezek.</hi> 16.</note> when I was cast out to the loathing of my person) when none eye pitied me, none had compassion on me.</p>
+               <p>When prayers, tears, sighs, groans, fastings, all could not cure mee.</p>
+               <p>He by his own out stretched arm, wrought wonderfully; em<g ref="char:EOLhyphen"/>bracing me in the arms of his tender compassion, and compassi<g ref="char:EOLhyphen"/>onate tenderness, saying to me, Live.</p>
+               <p>He poured both wine, and oile into my wounds, and made<note n="(d)" place="bottom">
+                     <hi>Psal.</hi> 51.</note> the bones which he had broken, to rejoice.</p>
+               <p>And hath made me to sing.</p>
+               <p>Bless the Lord, O my soul, and all that is within me, bless his holy name.</p>
+               <p>Who forgiveth all thine iniquities, who healeth all thy disea<g ref="char:EOLhyphen"/>ses, &amp;c.</p>
+               <p>I have (indeed) seen the wickedness of folly, and the foolish<g ref="char:EOLhyphen"/>ness of madness; and now I apply my heart to wisdome.</p>
+               <p>And therefore,</p>
+               <p>Secondly, I dis-own, detest, and protest against that error, which saith,</p>
+               <p>
+                  <hi>That Swearing and Cursing is no sin.</hi>
+               </p>
+               <p>And in the third place, I come to the</p>
+            </div>
+            <div n="5" type="counter_assertion">
+               <pb n="12" facs="tcp:165896:13"/>
+               <head>
+                  <hi>V. ASSERTION.</hi> That Cursing and Swearing, is a sin.</head>
+               <p>FIrst, Cursing is a sin;</p>
+               <p>Because it is against that pure precept of Christ:</p>
+               <p>Bless, I say, and Curse not, <hi>Matth.</hi> 5.44. <hi>Luke</hi> 6:28. <hi>Rom.</hi> 12.14.</p>
+               <p>And that <hi>Swearing is a Sin:</hi>
+               </p>
+               <p>First, I know it by woful, and most doleful experience.</p>
+               <p>I have found it so to be; with a witness.</p>
+               <p>Yea, with a vengeance, as I have afore hinted.</p>
+               <p>Furthermore, <hi>Swearing is a sin.</hi>
+               </p>
+               <p>For it is a breach of that pure Commandment, which saith,</p>
+               <p>
+                  <note n="*" place="bottom">
+                     <hi>Exod.</hi> 20.</note>Thou shalt not take the name of the Lord thy God in vain.</p>
+               <p>Thirdly, it is a breach of that pure precept of Christ, which saith, Swear not at all, <hi>Matth.</hi> 5.34.36: <hi>ch.</hi> 23.16.18.20, 21, 22.</p>
+               <p>Therefore above all things, Swear not—<hi>Iam.</hi> 5.</p>
+               <p>Fourthly, Swearing is a sin.</p>
+               <p>Because it pulleth down judgements upon a Land and Nation: as it is written, <hi>Ier.</hi> 23.10:</p>
+               <p>Because of Swearing, the Land mourns.</p>
+               <p>Because of prophane swearing, vain swearing, false swearing, for-swearing, and forc't swearing, the Land mourns:</p>
+               <p>And I mourn.</p>
+               <p>For that vengeance, and those clouds of bloud which hang o<g ref="char:EOLhyphen"/>ver this Nation: unless the glorious beams of that bright Sunne, the Prince of peace, and God of love dispel them.</p>
+               <p>But I proceed to the sixth Error.</p>
+            </div>
+            <div n="6" type="statement_of_error">
+               <head>
+                  <hi>VI. ERROR.</hi> That Adultery, Fornication, and Ʋncleannesse, is no sin.</head>
+               <p>COncerning this Error,</p>
+               <p>First, I dis-own, detest, and protest against it:</p>
+               <p>Secondly, I lay down this assertion.</p>
+            </div>
+            <div n="6" type="counter_assertion">
+               <pb n="13" facs="tcp:165896:13"/>
+               <head>
+                  <hi>VI. ASSERTION.</hi> That Adultery, fornication, and uncleannesse is a sin.</head>
+               <p>FIrst, because it is a breach of that pure precept, which saith,</p>
+               <p>Thou shalt not commit adultery, <hi>Exod.</hi> 20.</p>
+               <p>Secondly, it is a sin against a mans own body, (as it is written) 1 <hi>Cor.</hi> 6.18.</p>
+               <p>He that committeth fornication, sinneth against his own body.</p>
+               <p>And I doe not remember, (that throughout the Scripture) there is the like said of any other sin besides.</p>
+               <p>Thirdly, it is against all these ensuing, wholesome, pure, preci<g ref="char:EOLhyphen"/>ous Precepts, and Scriptures.</p>
+               <p>
+                  <hi>Acts</hi> 15:20.29. <hi>ch.</hi> 21.25. 1 <hi>Cor.</hi> 6.18. <hi>Col.</hi> 3.5. 1 <hi>Thess.</hi> 4.3.</p>
+               <p>And as for all uncleanness, let it not be once named among you. <hi>Ephes.</hi> 5.3.</p>
+               <p>And so I proceed to the Seventh Error, which hath some affi<g ref="char:EOLhyphen"/>nity with this; <hi>(viz.)</hi>
+               </p>
+            </div>
+            <div n="7" type="statement_of_error">
+               <head>
+                  <hi>VII. ERROR.</hi> That Community of Wives is lawful.</head>
+               <p>COncerning this Error,</p>
+               <p>First, I disown, detest, and protest against it:</p>
+               <p>Secondly, I lay down this assertion; <hi>(viz.)</hi>
+               </p>
+            </div>
+            <div n="7" type="counter_assertion">
+               <head>VII. ASSERTION. Wherein is also something hin<g ref="char:EOLhyphen"/>ted concerning community in the general, and concerning li<g ref="char:EOLhyphen"/>berty. <hi>That Community of wives is unlawful.</hi>
+               </head>
+               <p>First, because it is a breach of that pure Precept.</p>
+               <p>1 <hi>Cor.</hi> 7.2. Let every man have his own wife, and every wo<g ref="char:EOLhyphen"/>man her own husband.</p>
+               <p>Secondly, this tenent, is a corrupt opinion, that Christ hates; which is briefly hinted in that of <hi>Revel.</hi> 2.6.</p>
+               <p>This thou hast, that thou hatest the deeds of the <hi>Nicolaitans,</hi> which I also hate. I will add,</p>
+               <p>Thirdly, that it is destructive to the dearest, and nearest rela<g ref="char:EOLhyphen"/>tions, and the occasion of multitudes of miseries and perplexities.</p>
+               <p>Fourthly, it is destructive to the <hi>[bene esse]</hi>—Well-beeing of a Common-wealth.</p>
+               <pb n="14" facs="tcp:165896:14"/>
+               <p>And here I think good to give a hint of community in the gene<g ref="char:EOLhyphen"/>ral, because I understand, I have been by some traduced, and by others mistaken, concerning it.</p>
+               <p>I shall only here say,</p>
+               <p>That there is something (by some) contended for, in the name of community: which may prove meerly pernicious, and exceedingly destructive in several respects.</p>
+               <p>But for mine own part,</p>
+               <p>I shall <hi>[ex animo]</hi> in the presence of God, declare to the whole world, and here recite what I have formerly written, in my Remonstrance— Thus,</p>
+               <p>As for community, I own none but that Apostolical, saint-like community, spoken of in the Scriptures.</p>
+               <p>So far I either do, or should own community, that if flesh of my flesh, be ready to perish; I either will, or should call nothing that I have, mine own.</p>
+               <p>If I have bread, it shall, or should be his, else all my religion is in vain. I am for dealing bread to the hungry, for cloathing the naked, for the breaking of every yoak, for the letting of the oppressed go free. I am, or should be as my heavenly Father, who is kind to all, loving to all, even to the ungodly, &amp;c. <hi>Mat.</hi> 6.</p>
+               <p>I can (through grace) pity those that are objects of my compas<g ref="char:EOLhyphen"/>sion, and out of poverty and penury relieve those that are in want. Yet,</p>
+               <p>Know all men by these presents, that I am utterly against that community which is sinful, or destructive to soul or body, or the well-beeing of a Common-wealth.</p>
+               <p>And as for liberty,</p>
+               <p>I do from my heart detest, and protest against all sinfull liber<g ref="char:EOLhyphen"/>ty, or that is destructive to soul or body; or the <hi>[bene esse]</hi> the well-beeing of a Common-wealth.</p>
+               <p>I own none other, long for none other, but that<note n="*" place="bottom">
+                     <hi>Rom.</hi> 8.</note> glorious liberty of the sons of God:</p>
+               <p>Which God will hasten in its time.</p>
+            </div>
+            <div type="conclusion">
+               <head>[Conclusion.]</head>
+               <p>Till then, though I have been (through my over-much zeal, and through the weakness and mistake of others, an offence to many:</p>
+               <pb n="15" facs="tcp:165896:14"/>
+               <p>Yet (through grace) I will<note n="*" place="bottom">
+                     <hi>Cor.</hi> 10.32, 33.</note> give no offence for the future, either to Jew or Gentile, or to the Church of God.</p>
+               <p>And resolve (by the grace of God) to live at peace with all men.</p>
+               <p>And I give the world to understand, that those that are godly, sincere, and conscientious in their waies: (let them bee where they will) I own them, love them: they are the very joy of my soul. I will neither be offended<note n="*" place="bottom">
+                     <hi>Rom.</hi> 14.2.</note> at my weak brother, which ea<g ref="char:EOLhyphen"/>teth hearbs. Nor judge my strong brother, which eateth meat.</p>
+               <p>Neither will I judge my brother that<note n="*" place="bottom">
+                     <hi>Rom.</hi> 14.</note> observeth a DAY: if to the Lord he observeth it.</p>
+               <p>Nor judge him that observeth not a day: if to the Lord he ob<g ref="char:EOLhyphen"/>serveth it not.</p>
+               <p>To the Lord of the Conscience,</p>
+               <p>And to the Lord of ALL,</p>
+               <p>Even to the Lord, I leave you all,</p>
+               <p>And in the Lord, I love you all.</p>
+               <p>And in him,</p>
+               <closer>
+                  <salute>Farewell.</salute> AMEN.</closer>
+            </div>
+         </div>
+         <div type="preamble">
+            <head>A Preamble to the ensuing PROPOSALS, and ANSWERS.</head>
+            <argument>
+               <p>Since the finishing of my former—this ensuing Letter, with the several Proposals therein contained, were sent to me by the Reverend <hi>M. Dury,</hi> which with my full and faithful An<g ref="char:EOLhyphen"/>swer thereunto, may be aptly added as a second part to the for<g ref="char:EOLhyphen"/>mer Tract.</p>
+               <p>And to winde up all, it is thought expedient that my last Letter, (to my worthi<g ref="char:EOLhyphen"/>ly respected and faithful friend) concerning this businesse, &amp;c. Be annexed as a Conclusion of All—</p>
+            </argument>
+            <div type="letter">
+               <opener>
+                  <salute>M. <hi>Coppe,</hi>
+                  </salute>
+               </opener>
+               <p>ALthough we all who conferred with you yesterday, came with some fore-stalment against you (as by our Discour<g ref="char:EOLhyphen"/>ses you might well perceive) yet when we parted from you, I found, as in my self, so in all the rest, that your Declarations to
+<pb n="16" facs="tcp:165896:15"/> us had left an impression in us, that you were ingenuously open in what you then said; and that we had the cause to believe that you were really sensible of, and truly penitent for that which you had formerly done: which being so, you ought conscienti<g ref="char:EOLhyphen"/>ously to bethink your self, how to give satisfaction unto the world of the truth of your conversion. Let me therefore give you an opportunity, to testifie unto all, that which was declared unto us, and did seem a true evidence of your repentance: if then you would as in the fear of God by way of Letter to some of us, lay open your sense concerning the things which I shall now lay before you; you would do your self much right, in our opinion who conferred with you, and it will bee an advantage towards the accomplishment of your desires as God may direct us to improve it.</p>
+               <p>First, then, although the tediousness, and other inconvenien<g ref="char:EOLhyphen"/>ces of your imprisonment, may be lawful and natural motives to you to desire a releasement; yet it will bee expedient for your own comfort, to make it appear before God to your own con<g ref="char:EOLhyphen"/>science, that you dissemble not your repentance to flatter him with your lips, (for God cannot be deceived) and before men, whose eyes are upon you, that you make not a fair prfession nf being effectually converted only to gain your liberty; that then as a Sow, you may return again to wallow in the mire: I say, it will be very expedient, that you clear up these things, both to your self, and to other men; for as you ought to suspect your self, so others will be ready to suspect you of this.</p>
+               <p>Secondly, you will do well to speak fully and plainly your sense of the things whereof I discoursed with you, after that you had opened your self in the things taken notice of by us, in your Pre<g ref="char:EOLhyphen"/>face, <hi>viz.</hi>
+               </p>
+               <p>Concerning Sin; What you understand it to be? Whether any thing be otherwise a sin, then as men imagine it to them<g ref="char:EOLhyphen"/>selves to bee so? Whether men please God as well when they sinne, as when they sinne not? And whether to act most sinne, bee the nearest way to perfection? And what you think of these Tenets; and whether the Fiery Flying Roll, doth not insinuate them to be Truths, and dispose men to receive them as such?</p>
+               <pb n="17" facs="tcp:165896:15"/>
+               <p>Goncerning the Law of God declare your sense of it; as whe<g ref="char:EOLhyphen"/>ther it is not a rule to all men of their life in thoughts, words, and deeds? where the infallible testimony thereof is to be found, where unto all men must appeal and submit; and whether there be else-where any truth of God to be believed besides that which is witnessed by every mans spirit unto himself?</p>
+               <p>Concerning God and the souls of men, what you think of him? and whether he hath not a being before, and out of all creatures in himself from eternity? what difference there is between the nature of mens souls, and his being? and in what sense we are said to partake of the Divine nature. 2. <hi>Pet.</hi> 1.4.</p>
+               <p>Concerning the resurrection of the body, and the last judge<g ref="char:EOLhyphen"/>ment, what you belieue thereof? and whether you think these things to be past already, as to any men living on earth, yea or no.</p>
+               <p>The third thing which I have to offer unto you, is the conside<g ref="char:EOLhyphen"/>ration of the circumstances whereby your sins are highly aggrava<g ref="char:EOLhyphen"/>ted, and for which you should use means to make your repen<g ref="char:EOLhyphen"/>tance the more remarkable.</p>
+               <p>First, in respect of your own person; for you have been a prea<g ref="char:EOLhyphen"/>cher, and a leading man; now a sin in such a person is more disho<g ref="char:EOLhyphen"/>nourable to God, and to the holy profession, then in other men; therefore their repentance ought to be more remarkebly satisfa<g ref="char:EOLhyphen"/>ctory then other mens repentance.</p>
+               <p>Secondly, in respect of the publick and noted manner of your failings, you ought proportionably to make your humiliation the more publick and notable.</p>
+               <p>Thirdly, in respect of the greivousness, and hainousness of the actions in themselves, they being of a very deep dye; you ought to wipe them away with the greater contrition before God; and to evidence your turning from them with the greater abhorrency thereof before men; and with the more care of giving a ful assu<g ref="char:EOLhyphen"/>rance to the State, that you shall never return thereunto again.</p>
+               <p>Fourthly, in respect of the hurt which your Doctrine and per<g ref="char:EOLhyphen"/>swasion, or example hath done to the souls of other men; whereof som you have led into the waie of perdition, who perhaps will ne<g ref="char:EOLhyphen"/>ver be reclaimd; &amp; others you have so scandaliz'd that the way of truth is evil spoken of by them: all which should lie heavily upon your spirit all your days; that from henceforth you should strive to make so much the more amends, by being more examplary in holiness, then ever you have been in dissoluteness</p>
+               <pb n="18" facs="tcp:165896:16"/>
+               <p>If you will express your thoughts concerning these things, and pray to God to direct you both in thinking and expressing you will do that which becometh your ingenuitie; and add to the sa<g ref="char:EOLhyphen"/>tisfaction which was wanting in your former discourse, and is now expected to be improved for your good, by</p>
+               <closer>
+                  <signed>
+                     <hi>your willing servant in<lb/> Christ,</hi> John Dury.</signed>
+                  <dateline>
+                     <date>
+                        <hi>June</hi> 23. 1651.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="reply_to_letter">
+               <head>For his much honoured Friend Mr <hi>Dury.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Have joyfully and thankfully received yours, with your whol<g ref="char:EOLhyphen"/>som advise therein contained.</p>
+               <p>And I give you to understand,</p>
+               <p>That</p>
+               <p>My desires jump with your requirings, and in the laying open of my sense, concerning the things which you lay before me.</p>
+               <p>And first concerning the nature and grounds of my desires, in reference to my releasement, <hi>&amp;c.</hi>
+               </p>
+               <p>And therein — first Negatively:</p>
+               <p>I do not desire or seek after my Liberty, to this end, That I might return again, and wallow in the mire.</p>
+               <p>For I had rather die a thousand deaths, then so do: or desire so to do.</p>
+               <p>Neither do I, or did I dissemble my repentance, or flatter God with my lips.</p>
+               <p>For all those fair professions, sparkling through my Book, and those which (so solemnly in the presence of God, and before you with seriousness, and sorrow of heart, and tears in mine eyes,) I made, came from the bottom of my soul; cordially, fervently, and compunctionately: as the searcher of the heart knows, my conscience also bearing me witness.</p>
+               <p>And although (as you say, and I know) the tediousness, and se<g ref="char:EOLhyphen"/>veral other inconveniences of mine imprisonment may be, and are lawful and natural motives to me, to desire a releasment.</p>
+               <p>Yet I say, and give you to understand, (and that from the bot<g ref="char:EOLhyphen"/>tom of my heart) these are not the main motives—</p>
+               <p>But the prime, chief, and principal, is</p>
+               <p>That I might be in a better way, place, posture, and capacity to glorifie God, then I possibly can be in here.</p>
+               <pb n="19" facs="tcp:165896:16"/>
+               <p>For how can I sing the songs of my God in a strange land, &amp;c.</p>
+               <p>I do in the presence of God (even from my soul) with grief, gasp, and cordially, and feelingly breath out those groans.</p>
+               <p>
+                  <hi>Wo is me, that I am constrained to sojourn in Mesech, and to inhabit in the tents of Kedar, &amp;c.</hi>
+               </p>
+               <p>Truly, Sir,</p>
+               <p>I have a long, long while eaten<note n="*" place="bottom">Vid. Preface to my last book, <hi>p. 7.</hi>
+                  </note> Grass with Oxen.</p>
+               <p>
+                  <hi>Verbum sat</hi>—</p>
+               <p>These, and the like—are the prime grounds of my groaning under the burden of my imprisonment: which next to my sins is one of the heaviest, &amp;c.</p>
+               <p>And so I come to your other Proposals.</p>
+               <p>And first, to the first, which runs thus:</p>
+               <p>Prop. I. <hi>What do you understand sin to be?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In general, I understand sin, (which is my most un<g ref="char:EOLhyphen"/>supportable burden) to be the transgression of THE Law.</p>
+               <p>Against which we (in innumerable wayes) transgress; in thoughts, words, deeds; in omissions, commissions, ignorance, weakness, and presumption, &amp;c.</p>
+               <p>But to your second, <hi>viz.</hi>
+               </p>
+               <p>Prop. II. <hi>Whether any thing be otherwise a sin, then as men imagine it to themselves to be?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I answer, That sin, is sin in it self, yea, (as the Apostle saith)<note n="†" place="bottom">Rom.</note> exceeding sinful.</p>
+               <p>Even every breach, (yea, the least breach) of THE Law, is sin. Whether men imagine it to themselves so to be, or no.</p>
+               <p>For instance:</p>
+               <p>Adultery is a sin, whether men imagine it to be so, or no.</p>
+               <p>Even adultery — of all sorts; corporal, or spiritual; which the whole Land, and every mans heart (even the heart of the purest and strictest) is brim full of; if they could see it.</p>
+               <p>But ALL adulterers (I say) of all sorts, whether corporal, or spiritual: and S. <hi>James</hi> his<note n="†" place="bottom">Iames <hi>4.1:</hi> to the <hi>6.</hi> vers.</note> adulterers, and adulteresses, are sinners, do sin, whether they imagine it so, or no.</p>
+               <pb n="20" facs="tcp:165896:17"/>
+               <p>Yea,<note n="*" place="margin">Whereof those are greatly guilty that cry out of adultery &amp; un<g ref="char:EOLhyphen"/>cleaness in others, &amp;c.</note> heart-adultery, and eye-adultery, lust in both, in either is sin, sin with a witness <hi>Mat.</hi> 5.28.</p>
+               <p>Whether men imagin it to be so or no.</p>
+               <p>But I know it so to be: and (with a witness) have found it so to be:</p>
+               <p>And I still remember, and shall never forget that I heard a re<g ref="char:EOLhyphen"/>verend Divine (when I was about sixteen years old) affirm, That heart-adultery, <hi>&amp;c.</hi> was worse then the act of adulterie, <hi>&amp;c.</hi> It being the father and spirit of adulterie.</p>
+               <p>As also (many times) reaching such objects which were (at that time —) free from the like lust, <hi>&amp;c.</hi>
+               </p>
+               <p>I do not say that I am of his opinion.</p>
+               <p>But sure I am, this express hath (hundreds of times) wounded me to the very heart; and hath (for many years) stuck as a dagger in my soul; and hath cost me hot waters, even many, many showrs of tears; and innumerable sighs and groans, <hi>&amp;c.</hi>
+               </p>
+               <p>And let him that is without sin (in this particular) cast the first stone at adulterers, and adulteresses.</p>
+               <p>And (for my part, as I have been cut and wounded, wounded to the heart for this: so will I throw stones (as fast as J can drive) at ADULTERY, at all sorts of adultety: in my self, and others, which J know to be sin, and sin of a deep dye: Yea, a crimson crime, whether men imagine it to be so or no.</p>
+               <p>And so is swearing and cursing, <hi>&amp;c.</hi> a sin, as J have<note n="*" place="margin">Vid. truth trium<g ref="char:EOLhyphen"/>phing over error, &amp;c. Pag. 27.</note> to my great grief, and sore smart found it to be: and I once more proclaim it so to be.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And so is drunkness of all sorts (and there are various sorts thereof) a sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And theft of all sorts (and there are several sorts thereof) a sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And murther of all sorts (and there are several sorts thereof, and several sorts of Murtherers) a sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And there are thousands of Drunkards, thieves and murthe<g ref="char:EOLhyphen"/>rers (of several sorts) who stroak themselves on the head, and say, J thank God, J am not as this drunkard, theif, or as this murthe<g ref="char:EOLhyphen"/>rer, <hi>&amp;c.</hi>
+               </p>
+               <pb n="21" facs="tcp:165896:17"/>
+               <p>And yet go away no more justified then the worst of Publicans and sinners.</p>
+               <p>But for my part I will not justifie any of these in my self, or in others.</p>
+               <p>For once more, J say, and know, that drunkenness of all sorts: theft of all sorts, and murther of all sorts, is a sin.</p>
+               <p>
+                  <hi>Whether men imagin it to be so, or no.</hi>
+               </p>
+               <p>And so is pride, covetousness, hypocrisie, oppression, Tyranny, cruelty, unmercifulnesse,<note n="*" place="bottom">
+                     <hi>Jam.</hi> 2.</note> despising the poor and needy, who are in vile raiment, <hi>&amp;c.</hi>
+               </p>
+               <p>A sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And so is doing unto others, as we would not be done unto our selves, <hi>&amp;c.</hi>
+               </p>
+               <p>A sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And the laying of Nets, Traps, and Snares for the feet of our neighbours, is a sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And so is the not undoing of heavy burthens, the not letting the oppressed go free: the not breaking every yoak, and the not deal<g ref="char:EOLhyphen"/>ing of bread to the hungry, <hi>&amp;c.</hi> and the hiding our selves from our own flesh, <hi>&amp;c.</hi>
+               </p>
+               <p>A sin.</p>
+               <p>
+                  <hi>Whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And let this suffice for answer to your second <hi>Proposal,</hi>
+               </p>
+               <p>Wherein I affirm,</p>
+               <p>
+                  <hi>That sin is sin whether men imagine it to be so or no.</hi>
+               </p>
+               <p>And as for the <hi>FIERY FLYING ROLL,</hi>
+               </p>
+               <p>I disclaim, declaim, and protest against it which doth (to use your own apt expression) <hi>insinuate the contrary.</hi>
+               </p>
+               <p>Also I once more, disclaim, declaim, and protest against all other Errors, and blasphemous opinions therein insinuated, <hi>&amp;c.</hi>
+               </p>
+               <p>As my large, free, cordial professions to you, and what I have now written on this point, and that which here followeth.</p>
+               <p>As also the assertion of so many truths, in my former writings, together with those many protestations against mine own errors, as also against others that I have not been tackt or tainted with, do clearly demonstrate to all ingenuous, and unprejudiced spirits.</p>
+               <pb n="22" facs="tcp:165896:18"/>
+               <p>Even to all, unless to those that will be satisfied with nothing; but rejoyce to add afflictions to my bonds, and to spit out their in<g ref="char:EOLhyphen"/>veterate and secret malice against me, <hi>&amp;c.</hi>
+               </p>
+               <p>But to the Lord I leave them. And to him I refer my cause who Registers my groans, and hears the sighing of the prisoners.</p>
+               <p>And knows the sincerity of my heart which he hath given me;</p>
+               <p>And I proceed to the rest of your Proposals.</p>
+               <p>Which (I humbly conceive) might have been more aptly pro<g ref="char:EOLhyphen"/>ferrd to the authors of such <hi>Assertions,</hi> from whence your propo<g ref="char:EOLhyphen"/>sals have their rise, <hi>&amp;c.</hi> then to me who am not the father of them nor did ever own them, <hi>&amp;c.</hi>
+               </p>
+               <p>And for my part I am indisposed to meddle with other mens matters.</p>
+               <p>And am also filled with various perplexities, griefs, and lan<g ref="char:EOLhyphen"/>guishments, &amp; so compassed about with so many inconveniencies with weaknesse of my body, and various distempers both of bo<g ref="char:EOLhyphen"/>dy and minde; and altogether wanting all manner of accomodati<g ref="char:EOLhyphen"/>ons: being also sorely put to it for place—and opportunity.</p>
+               <p>That I am very unfit for these things.</p>
+               <p>However (so well as I can) I proceed to your 3, and 4, Propo<g ref="char:EOLhyphen"/>sals, <hi>viz.</hi>
+               </p>
+               <p>III. and IV. Propos. <hi>Whether men please God as well when they sin, as when they sin not?</hi>
+               </p>
+               <p>And, <hi>Whether to act most sin, be the nearest way to perfection?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I answer, That I disown, detest, and protest against this opinion, as erronous and blasphemous.</p>
+               <p>And contrary to the whole tenure of Scripture:</p>
+               <p>As also contrary to mine own experience.</p>
+               <p>For J am perswaded,</p>
+               <p>That never any man hath lien more under the wrath and heavy displeasure of God for sin, then I have done.</p>
+               <p>And as for the Scriptures, they affirm,</p>
+               <p>That when God saw that the wickedness of man was great up<g ref="char:EOLhyphen"/>on the earth: and that every imagination of the thoughts of his
+<pb n="23" facs="tcp:165896:18"/> heart, was only <hi>Evil</hi> continually: it repented the Lord that he had made man on the earth, and it grieved him at his heart, and that he was sore displeased thereat—he said, —</p>
+               <p>I will destroy man whom I have created, both man and beast, <hi>&amp;c. Gen.</hi> 6.5, 6, 7.11, 12, 13.</p>
+               <p>The time would fail to summ up all the Scriptures to this pur<g ref="char:EOLhyphen"/>pose. <hi>&amp;c.</hi>
+               </p>
+               <p>Neither can I at this time in this place, be in a capacity to do it.</p>
+               <p>But I go on.</p>
+               <p>When Israel, Gods peculiar (seperated people) had sinned, <hi>Num</hi> 14.</p>
+               <p>The Lord said, how long will this people provoke me? I will smite them with the pestilence, <hi>&amp;c:</hi> vers. 11, 12.</p>
+               <p>And again how long shal I bear with this evil congregation? as truly as I live your Carcasses shall fall in the wildernesse, <hi>&amp;c.</hi> vers. 27, 28, 29.</p>
+               <p>Again, they ceased not from their own doings, but have trans<g ref="char:EOLhyphen"/>gressed, <hi>&amp;c.</hi>
+               </p>
+               <p>And the anger of the Lord was hot against Israel, <hi>&amp;c. Judg.</hi> 2:19. to the end of the chap.</p>
+               <p>And Chap. 3.7, 8, 9, 10, 11, 12. 1 <hi>King.</hi> 11. from vers. to the 12.</p>
+               <p>These, and 100 more— yea, the whole current of the Scrip<g ref="char:EOLhyphen"/>ture holds forth what I affirm, and maintain.</p>
+               <p>That God is highly displeased with men for sin, <hi>&amp;c.</hi>
+               </p>
+               <p>And that to act sin is the highest way to perfection, is a thing I never heard started before; neither did I ever hear of any that held it.</p>
+               <p>It is a Tenet so simply and sinfully absurd, That J abhor it.</p>
+               <p>And therefore I utterly disown it, detest it, and protest against it as so.</p>
+               <p>And I know and affirm, That the more sinful any one is, the more imperfect—and divellish. For [<hi>he that committeth sin, is of the Divel,</hi> &amp;c.] according to the Scripture, and God who is perfect sinneth not: and is displeased with them that do sin.</p>
+               <p>And so I come to your fift <hi>Proposal,</hi> viz.</p>
+               <p>V. Propos. <hi>What is my sense of the Law of God.—&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In answer hereunto,</p>
+               <pb n="24" facs="tcp:165896:19"/>
+               <p>First, I declare and affirm the Law to be<note n="*" place="bottom">
+                     <hi>Rom.</hi> 2.</note> holy, and just, and good, <hi>&amp;c.</hi>
+               </p>
+               <p>Secondly, That is a rule to all men of their lives, in thoughts, words, and deeds, <hi>&amp;c.</hi>
+               </p>
+               <p>And that the infallible testimony thereof is to be found in the word of God, whereunto all men must appeal and submit: and which they must believe: neither are they to adhere to any thing that is without, or contrary to the word, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <note n="*" place="bottom">2 <hi>Tim.</hi> 3.15, 16.</note>And that the holy Scrip<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ures are able to make—wise unto salvation, through faith which is in C. Jesus, <hi>&amp;c.</hi>
+               </p>
+               <p>And all Scripture is given by inspiration of God, and is profita<g ref="char:EOLhyphen"/>ble, <hi>&amp;c.</hi>
+               </p>
+               <p>And so I come to your 6. <hi>Proposal,</hi> viz.</p>
+               <p>VI. Propos <hi>What I think of God, and the souls of men,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> I answer,</p>
+               <p>Concerning God (of whom I have, and doe write, with fear and trembling, &amp;c.) I have spoken at large, in several par<g ref="char:EOLhyphen"/>ticulars, in several Chapters, or under several Heads in my M<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nuscript, called, <hi>Truth asserted,</hi> &amp;c. <hi>Assertion</hi> 2, 3, 4. from P. 8. to the 1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>To all which I shall add this affirmative to your (now) <hi>Quaere,</hi> viz.</p>
+               <p>That God hath a being before, and out of all creatures, in him<g ref="char:EOLhyphen"/>self, from eternity.</p>
+               <p>And as for the difference between the nature of mens souls, and his being.</p>
+               <p>I believe,</p>
+               <p>That he hath his being in himself.</p>
+               <p>And men have their souls from him, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>And concerning our partaking of the Divine nature,</hi> &amp;c.</p>
+               <p>This is my sense,</p>
+               <p>That we are partakers of the Divine nature, through our Mysti<g ref="char:EOLhyphen"/>cal, and Spiritual Filiation, <hi>&amp;c.</hi>
+               </p>
+               <p>For as the son of man partakes of his fathers nature, so the sons of God (in a glorious spiritual, and unspeakable manner) partake of his nature.</p>
+               <p>As it is written,<note n="*" place="bottom">Rom. Galat.</note> Because we are sons, therefore hath he given us his spirit, <hi>&amp;c.</hi>
+               </p>
+               <p>And the love of God is shed abroad in our hearts, <hi>&amp;c.</hi>
+               </p>
+               <pb n="25" facs="tcp:165896:19"/>
+               <p>
+                  <hi>We are partakers af the Divine nature.</hi>
+               </p>
+               <p>Through that glorious, Mystical, unfathomable, Spiritual union which we have with Christ, and his in-dwelling in us, <hi>&amp;c:</hi>
+               </p>
+               <p>And concerning this union, and in-dwelling: so much is through<g ref="char:EOLhyphen"/>out the Scripture:</p>
+               <p>First, Typified.</p>
+               <p>Secondly, Metaphoriz'd.</p>
+               <p>Thirdly, Alegoriz'd</p>
+               <p>Fourthly, Prophesied.</p>
+               <p>Fifthly, Promised, <hi>[That it should be made manifest.]</hi>
+               </p>
+               <p>Sixtly, In plain Scripture tearms expressed.</p>
+               <p>And</p>
+               <p>Seventhly, Joyful and gloriously experienced.</p>
+               <p>This glorious Mystery (I say) which hath been<note n="*" place="bottom">
+                     <hi>Colos.</hi> 1.26.27.</note> hid from ages, and from generations, <hi>&amp;c.</hi>
+               </p>
+               <p>Is held forth (in the Scriptures of truth) in Types, Allegories, Metaphors, Prophecies, promises in plain tearms, and all this con<g ref="char:EOLhyphen"/>firmed by joyful experience.</p>
+               <p>And now being<note n="*" place="bottom">
+                     <hi>Joh.</hi> 6. <hi>Heb.</hi> 2.</note> he that sanctifieth, and they that are sancti<g ref="char:EOLhyphen"/>fied are— one, and he is not ashamed to call them brethren.</p>
+               <p>And being he is * in them, — dwels in them. <hi>&amp;c. Joh.</hi> 16. <hi>Col.</hi> 1.26, 27. 2 <hi>Cor.</hi> 6.16.</p>
+               <p>And being in him dwels <hi>ALL</hi> the fulness of the God-head bodily — <hi>&amp;c.</hi>
+               </p>
+               <p>Of his fulness we all receive, <hi>Joh.</hi> 1. <hi>Colos.</hi>
+               </p>
+               <p>Wherefore I say, of and from, and through him — through mystical, spiritual, filiation, fraternity, unity, and in-dwelling. <hi>We are partakers of the Divine nature.</hi>
+               </p>
+               <p>And so I come to your seventh Proposal, <hi>viz</hi>
+               </p>
+               <p>VII. Propos. <hi>What I think of the resurrection of the body,</hi> &amp;c. <hi>And the last judgement,</hi> &amp;c.</p>
+               <p>
+                  <hi>Answ.</hi> To this I answer,</p>
+               <p>First, That I am no <hi>Saduce,</hi> and am as unwilling to be a <hi>Pharisee.</hi>
+               </p>
+               <p>Secondly, concerning these points: I have never discoursed, prea<g ref="char:EOLhyphen"/>ched, or writ any thing.</p>
+               <p>Thirdly, I believe the resurrection of the body, <hi>&amp;c.</hi>
+               </p>
+               <p>According to the Scriptures, and especially—that of 1 <hi>Cor.</hi> 15.35. to the 54.</p>
+               <pb n="26" facs="tcp:165896:20"/>
+               <p>And concerning the great day of Judgement;</p>
+               <p>I believe,</p>
+               <p>That the dead, both small and great, shall stand before God the Judge of all, and the Books shall be opened, and the dead shall be judged out of those things which are written in the Books, according to their works, <hi>Rev.</hi> 20.12.</p>
+               <p>Neither do I think these things to be past already as to any man living on Earth. But the contrary.</p>
+               <p>
+                  <hi>And as for those things which you offer to me, concerning the circumstances whereby my sins are aggravated, &amp;c.</hi>
+               </p>
+               <p>I have took them into my sad and serious consideration.</p>
+               <p>And those — with divers others—have been set home upon my spirit by the hand of God, &amp;c.</p>
+               <p>And as for my repentance, and turning from them; and for the satisfaction of all, &amp;c. I doe not desire that what I have spoken, and to that purpose written, may be put under a bushel: or confined in a corner, but that it might fly abroad, to that end, &amp;c.</p>
+               <p>And furthermore, in what way and places soever divine provi<g ref="char:EOLhyphen"/>vidence shall dispose of me, I shal not cease to publish it, and what God hath wrought in me.</p>
+               <p>And as for my giving assurance to the State—which you speak of</p>
+               <p>I neither have assurance of my self; nor can I have it from man.</p>
+               <p>But my assurance is in God: in whom I have hope, and full affiance, That (through his grace) I shall never return thereto again.</p>
+               <p>As I have humbly, sincerely, and cordially (both in my hum<g ref="char:EOLhyphen"/>ble Petition to them, and in several other places of my writing) exprest.</p>
+               <p>And that my future deportment in all things, shall make a<g ref="char:EOLhyphen"/>mends for what hath been by-past, &amp;c.</p>
+               <p>And thus have I faithfully, sincerely, (and as I conceive) fully fulfilled mine own desires, and answered your requirings, in ad<g ref="char:EOLhyphen"/>ding to what I have formerly written, and to all my large profes<g ref="char:EOLhyphen"/>sions, and protestations, &amp;c.</p>
+               <p>This Answer to your several <hi>Proposals,</hi> &amp;c.</p>
+               <p>All which, I hope, (according to your promises—) will be improved for my good:</p>
+               <pb n="27" facs="tcp:165896:20"/>
+               <p>For which I pray, and hope, &amp;c. And which also I humbly expect from you.</p>
+               <p>Hoping (that according to your profession, and those good thoughts I have of you) you will look upon me, upon my ex<g ref="char:EOLhyphen"/>pressions, and writings; and upon my condition (which in se<g ref="char:EOLhyphen"/>veral respects, is very sad) as your own.</p>
+               <p>
+                  <hi>—Considering also your self—</hi>
+               </p>
+               <p>That I may finde by experience, that that golden Law of all true Righteousness—and love, is written in your heart.</p>
+               <p>The tenure whereof runs thus:</p>
+               <p>
+                  <hi>Whatsoever you would that men should do unto [and for] you,</hi>
+               </p>
+               <p>
+                  <hi>Even so do you unto [And FOR] them.</hi>
+               </p>
+               <p>
+                  <hi>For this is the LAW, and the Prophets.</hi>
+               </p>
+               <p>And I am</p>
+               <closer>
+                  <salute>Honoured SIR,</salute>
+                  <lb/>
+                  <signed>
+                     <hi>Your humble and faithful servant<lb/> in THE LORD,</hi>
+                     <lb/> ABIEZER COPPE.</signed>
+                  <dateline>
+                     <hi>Newgate,</hi>
+                     <date>June 28.<lb/> 1651.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>For his much Honoured friend, Mr. <hi>Marcha<g ref="char:EOLhyphen"/>mont Nedham.</hi>
+            </head>
+            <opener>
+               <salute>M. <hi>Nedham! My humble service, sincere respects, and hearty commendations to you pres<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nted, &amp;c.</hi>
+               </salute>
+            </opener>
+            <p>ALthough I have been (by sickness, weakness, and various distempers of body and mind) impeded, &amp;c.</p>
+            <p>Yet I have at length finished these.</p>
+            <p>And now I present them to you.</p>
+            <p>As for my former Writings, which you and the other Gen<g ref="char:EOLhyphen"/>tlemen lately received; I cannot question, but that I have (now) fully fulfilled your desires, and requirings therein.</p>
+            <p>By delêating what might prove offensive to any.</p>
+            <p>By altering, correcting, and amending other things. And</p>
+            <p>By explicating some other things that might appear dubious, or difficult.</p>
+            <p>And herein I have not omitted the least clause —</p>
+            <p>Wherefore I cannot question but that it may now pass.</p>
+            <p>And as for M. <hi>Duries</hi>—</p>
+            <pb n="28" facs="tcp:165896:21"/>
+            <p>I have faithfully, sincerely, (and as I conceive) fully, (and I hope, satisfactorily) answered his Letter, and those various Pro<g ref="char:EOLhyphen"/>posals therein contained, &amp;c.</p>
+            <p>And concerning your last—<hi>About the Fiery Flying Roll,</hi> &amp;c.</p>
+            <p>—Thus:</p>
+            <p>Although (in the former Copy of my Book, <hi>Page</hi> 5, 6.) I spoke concerning the blasphemous opinions which it insinuated only by way of question and supposition, &amp;c. yet now doe I there, and more at large elsewhere,</p>
+            <p>First, positively acknowledge, that it doth so —</p>
+            <p>As you may see there, and more at large, in my answer to M. <hi>Dury.</hi>
+            </p>
+            <p>And, Secondly, there is not any one, from the greatest to the least error, therein insinuated, which I do not (both cordially, and zealously) declaim and protest against, &amp;c.</p>
+            <p>And, Thirdly, I have faithfully (and I humbly conceive) ful<g ref="char:EOLhyphen"/>ly, asserted Truths: contrary to every one of the Errors therein insinuated, and to divers other Errors which I have not been (in the least degree) taket or tainted withal, &amp;c.</p>
+            <p>Which I hope may give full satisfacton. I having (according to your advise) proceeded therein roundly, freely, and fully.</p>
+            <p>And (now) my humble request to you is,</p>
+            <p>That you would please to prosecute your good enterprise— in my behalf, &amp;c.</p>
+            <p>Truly, Sir,</p>
+            <p>Hope deferred, maketh the heart sick.</p>
+            <p>And my languishing expectations will be more grievous to me, then my tedious imprisonment: unless they are satisfied, &amp;c.</p>
+            <p>These, and my sad condition (which is so indeed in several re<g ref="char:EOLhyphen"/>spects) I make bold to present to your Christian, charitable consideration.</p>
+            <p>Relying on your sweetness, and goodness, for a continuation of your former, and undeserved favours.</p>
+            <p>And I shall joyfully subscribe my self,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <lb/>
+               <signed>
+                  <hi>Your faithful servant, and a well-wisher<lb/> to you, and your vertues.</hi>
+                  <lb/> ABIEZER COPPE.</signed>
+               <dateline>
+                  <hi>NEWGATE,</hi>
+                  <lb/>
+                  <date>June 28. 1651.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
